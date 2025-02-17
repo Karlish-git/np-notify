@@ -1,0 +1,371 @@
+[
+	"message:new_messages",
+	{
+		"messages": [
+			{
+				"status": "read",
+				"key": "1996857",
+				"created": "2025-01-23T13:49:17.572Z",
+				"activity": "2025-01-23T13:49:17.572Z",
+				"group": "game_event",
+				"payload": {
+					"template": "money_sent",
+					"to_puid": 19,
+					"from_puid": 9,
+					"amount": 125,
+					"tick": 185
+				}
+			},
+			{
+				"status": "read",
+				"key": "1996825",
+				"created": "2025-01-23T13:37:07.921Z",
+				"activity": "2025-01-23T13:37:07.921Z",
+				"group": "game_event",
+				"payload": {
+					"template": "shared_technology",
+					"to_puid": 21,
+					"from_puid": 9,
+					"tech": 3,
+					"level": 4,
+					"price": 100,
+					"tick": 185
+				}
+			},
+			{
+				"status": "read",
+				"key": "1996799",
+				"created": "2025-01-23T13:33:53.148Z",
+				"activity": "2025-01-23T13:33:53.148Z",
+				"group": "game_event",
+				"payload": {
+					"template": "money_sent",
+					"to_puid": 9,
+					"from_puid": 21,
+					"amount": 100,
+					"tick": 185
+				}
+			},
+			{
+				"status": "read",
+				"key": "1996692",
+				"created": "2025-01-23T13:20:53.291Z",
+				"activity": "2025-01-23T13:20:53.291Z",
+				"group": "game_event",
+				"payload": {
+					"template": "war_declared",
+					"attacker": 38,
+					"defender": 59,
+					"tick": 185
+				}
+			},
+			{
+				"status": "read",
+				"key": "1996628",
+				"created": "2025-01-23T13:19:44.103Z",
+				"activity": "2025-01-23T13:19:44.103Z",
+				"group": "game_event",
+				"payload": {
+					"template": "war_declared",
+					"attacker": 25,
+					"defender": 29,
+					"tick": 185
+				}
+			},
+			{
+				"status": "read",
+				"key": "1995889",
+				"created": "2025-01-23T11:15:52.481Z",
+				"activity": "2025-01-23T11:15:52.481Z",
+				"group": "game_event",
+				"payload": {
+					"template": "goodbye_to_player",
+					"uid": 2,
+					"name": "Sawkus",
+					"tick": 182
+				}
+			},
+			{
+				"status": "read",
+				"key": "1995417",
+				"created": "2025-01-23T09:36:43.487Z",
+				"activity": "2025-01-23T09:36:43.487Z",
+				"group": "game_event",
+				"payload": {
+					"template": "shared_technology",
+					"to_puid": 21,
+					"from_puid": 9,
+					"tech": 2,
+					"level": 5,
+					"price": 125,
+					"tick": 181
+				}
+			},
+			{
+				"status": "read",
+				"key": "1995415",
+				"created": "2025-01-23T09:36:31.483Z",
+				"activity": "2025-01-23T09:36:31.483Z",
+				"group": "game_event",
+				"payload": {
+					"template": "shared_technology",
+					"to_puid": 21,
+					"from_puid": 9,
+					"tech": 2,
+					"level": 4,
+					"price": 100,
+					"tick": 181
+				}
+			},
+			{
+				"status": "read",
+				"key": "1995325",
+				"created": "2025-01-23T09:19:26.533Z",
+				"activity": "2025-01-23T09:19:26.533Z",
+				"group": "game_event",
+				"payload": {
+					"template": "goodbye_to_player_inactivity",
+					"uid": 26,
+					"name": "FailHipe",
+					"tick": 181
+				}
+			},
+			{
+				"status": "read",
+				"key": "1995312",
+				"created": "2025-01-23T09:19:26.533Z",
+				"activity": "2025-01-23T09:19:26.533Z",
+				"group": "game_event",
+				"payload": {
+					"template": "combat_mk_ii",
+					"star": {
+						"name": "Alpha Kita",
+						"uid": 450,
+						"ss": 54,
+						"es": 0,
+						"puid": 26,
+						"w": 3
+					},
+					"attackers": {
+						"18": {
+							"ss": 31,
+							"es": 18,
+							"puid": 9,
+							"w": 4
+						},
+						"237": {
+							"ss": 99,
+							"es": 56,
+							"puid": 9,
+							"w": 4
+						}
+					},
+					"defenders": {},
+					"dw": 4,
+					"aw": 4,
+					"loot": 30,
+					"looter": 9,
+					"tick": 181
+				}
+			},
+			{
+				"status": "read",
+				"key": "1995204",
+				"created": "2025-01-23T09:07:23.022Z",
+				"activity": "2025-01-23T09:07:23.022Z",
+				"group": "game_event",
+				"payload": {
+					"template": "peace_accepted",
+					"to_puid": 30,
+					"from_puid": 9,
+					"tick": 180
+				}
+			},
+			{
+				"status": "read",
+				"key": "1995189",
+				"created": "2025-01-23T09:00:49.896Z",
+				"activity": "2025-01-23T09:00:49.896Z",
+				"group": "game_event",
+				"payload": {
+					"template": "peace_accepted",
+					"to_puid": 51,
+					"from_puid": 9,
+					"tick": 180
+				}
+			},
+			{
+				"status": "read",
+				"key": "1995183",
+				"created": "2025-01-23T08:53:43.864Z",
+				"activity": "2025-01-23T08:53:43.864Z",
+				"group": "game_event",
+				"payload": {
+					"template": "money_sent",
+					"to_puid": 9,
+					"from_puid": 21,
+					"amount": 125,
+					"tick": 180
+				}
+			},
+			{
+				"status": "read",
+				"key": "1995181",
+				"created": "2025-01-23T08:53:40.437Z",
+				"activity": "2025-01-23T08:53:40.437Z",
+				"group": "game_event",
+				"payload": {
+					"template": "money_sent",
+					"to_puid": 9,
+					"from_puid": 21,
+					"amount": 100,
+					"tick": 180
+				}
+			},
+			{
+				"status": "read",
+				"key": "1994940",
+				"created": "2025-01-23T08:19:30.007Z",
+				"activity": "2025-01-23T08:19:30.007Z",
+				"group": "game_event",
+				"payload": {
+					"template": "goodbye_to_player_defeated",
+					"uid": 56,
+					"name": "Zevik",
+					"tick": 180
+				}
+			},
+			{
+				"status": "read",
+				"key": "1994889",
+				"created": "2025-01-23T08:19:30.007Z",
+				"activity": "2025-01-23T08:19:30.007Z",
+				"group": "game_event",
+				"payload": {
+					"template": "production",
+					"uid": 9,
+					"economy": 60,
+					"banking": 5,
+					"cash": 1200,
+					"techName": 0,
+					"techPoints": 288,
+					"techLevel": 4,
+					"sfv": 440,
+					"tick": 180
+				}
+			},
+			{
+				"status": "read",
+				"key": "1993696",
+				"created": "2025-01-23T03:58:54.141Z",
+				"activity": "2025-01-23T03:58:54.141Z",
+				"group": "game_event",
+				"payload": {
+					"template": "war_declared",
+					"attacker": 5,
+					"defender": 29,
+					"tick": 175
+				}
+			},
+			{
+				"status": "read",
+				"key": "1992290",
+				"created": "2025-01-22T22:12:44.141Z",
+				"activity": "2025-01-22T22:12:44.141Z",
+				"group": "game_event",
+				"payload": {
+					"template": "war_declared",
+					"attacker": 21,
+					"defender": 26,
+					"tick": 169
+				}
+			},
+			{
+				"status": "read",
+				"key": "1991741",
+				"created": "2025-01-22T20:19:25.570Z",
+				"activity": "2025-01-22T20:19:25.570Z",
+				"group": "game_event",
+				"payload": {
+					"template": "tech_up",
+					"uid": 9,
+					"tech": 3,
+					"level": 4,
+					"tick": 168
+				}
+			},
+			{
+				"status": "read",
+				"key": "1991462",
+				"created": "2025-01-22T19:19:30.706Z",
+				"activity": "2025-01-22T19:19:30.706Z",
+				"group": "game_event",
+				"payload": {
+					"template": "combat_mk_ii",
+					"star": {
+						"name": "New Cox",
+						"uid": 454,
+						"ss": 51,
+						"es": 0,
+						"puid": 26,
+						"w": 3
+					},
+					"attackers": {
+						"18": {
+							"ss": 82,
+							"es": 30,
+							"puid": 9,
+							"w": 4
+						}
+					},
+					"defenders": {},
+					"dw": 4,
+					"aw": 4,
+					"loot": 50,
+					"looter": 9,
+					"tick": 167
+				}
+			},
+			{
+				"status": "read",
+				"key": "1985908",
+				"created": "2025-01-22T01:19:26.003Z",
+				"activity": "2025-01-22T01:19:26.003Z",
+				"group": "game_event",
+				"payload": {
+					"template": "combat_mk_ii",
+					"star": {
+						"name": "Nu Quo",
+						"uid": 830,
+						"ss": 0,
+						"es": 0,
+						"puid": 26,
+						"w": 3
+					},
+					"attackers": {
+						"18": {
+							"ss": 133,
+							"es": 129,
+							"puid": 9,
+							"w": 4
+						}
+					},
+					"defenders": {
+						"164": {
+							"ss": 1,
+							"es": 0,
+							"puid": 26,
+							"w": 3
+						}
+					},
+					"dw": 4,
+					"aw": 4,
+					"loot": 0,
+					"looter": 9,
+					"tick": 149
+				}
+			}
+		],
+		"group": "game_event"
+	}
+]

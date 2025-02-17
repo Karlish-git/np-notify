@@ -1,0 +1,538 @@
+[
+	"message:new_messages",
+	{
+		"messages": [
+			{
+				"status": "unread",
+				"key": "2088701",
+				"created": "2025-02-03T16:19:26.240Z",
+				"activity": "2025-02-03T16:19:26.240Z",
+				"group": "game_event",
+				"payload": {
+					"template": "combat_mk_ii",
+					"star": {
+						"name": "Eltanin",
+						"uid": 813,
+						"ss": 22,
+						"es": 0,
+						"puid": 9,
+						"w": 18
+					},
+					"attackers": {
+						"720": {
+							"ss": 393,
+							"es": 355,
+							"puid": 7,
+							"w": 18
+						}
+					},
+					"defenders": {},
+					"dw": 19,
+					"aw": 18,
+					"loot": 40,
+					"looter": 7,
+					"tick": 452
+				}
+			},
+			{
+				"status": "unread",
+				"key": "2088579",
+				"created": "2025-02-03T16:03:46.416Z",
+				"activity": "2025-02-03T16:03:46.416Z",
+				"group": "game_event",
+				"payload": {
+					"template": "money_sent",
+					"to_puid": 10,
+					"from_puid": 9,
+					"amount": 414,
+					"tick": 451
+				}
+			},
+			{
+				"status": "read",
+				"key": "2088323",
+				"created": "2025-02-03T15:50:18.272Z",
+				"activity": "2025-02-03T15:50:18.272Z",
+				"group": "game_event",
+				"payload": {
+					"template": "shared_technology",
+					"to_puid": 9,
+					"from_puid": 10,
+					"tech": 5,
+					"level": 18,
+					"price": 450,
+					"tick": 451
+				}
+			},
+			{
+				"status": "read",
+				"key": "2088012",
+				"created": "2025-02-03T15:11:46.950Z",
+				"activity": "2025-02-03T15:11:46.950Z",
+				"group": "game_event",
+				"payload": {
+					"template": "shared_technology",
+					"to_puid": 9,
+					"from_puid": 21,
+					"tech": 0,
+					"level": 16,
+					"price": 400,
+					"tick": 450
+				}
+			},
+			{
+				"status": "read",
+				"key": "2087689",
+				"created": "2025-02-03T14:20:06.821Z",
+				"activity": "2025-02-03T14:20:06.821Z",
+				"group": "game_event",
+				"payload": {
+					"template": "combat_mk_ii",
+					"star": {
+						"name": "Sadalbari",
+						"uid": 518,
+						"ss": 485,
+						"es": 264,
+						"puid": 63,
+						"w": 12
+					},
+					"attackers": {
+						"272": {
+							"ss": 170,
+							"es": 0,
+							"puid": 9,
+							"w": 17
+						}
+					},
+					"defenders": {
+						"143": {
+							"ss": 1,
+							"es": 1,
+							"puid": 63,
+							"w": 12
+						}
+					},
+					"dw": 13,
+					"aw": 17,
+					"loot": 0,
+					"looter": 63,
+					"tick": 450
+				}
+			},
+			{
+				"status": "read",
+				"key": "2087690",
+				"created": "2025-02-03T14:20:06.821Z",
+				"activity": "2025-02-03T14:20:06.821Z",
+				"group": "game_event",
+				"payload": {
+					"template": "combat_mk_ii",
+					"star": {
+						"name": "Lush Mi",
+						"uid": 519,
+						"ss": 182,
+						"es": 86,
+						"puid": 9,
+						"w": 17
+					},
+					"attackers": {
+						"172": {
+							"ss": 160,
+							"es": 0,
+							"puid": 63,
+							"w": 12
+						}
+					},
+					"defenders": {},
+					"dw": 18,
+					"aw": 12,
+					"loot": 0,
+					"looter": 9,
+					"tick": 450
+				}
+			},
+			{
+				"status": "read",
+				"key": "2087249",
+				"created": "2025-02-03T13:19:43.876Z",
+				"activity": "2025-02-03T13:19:43.876Z",
+				"group": "game_event",
+				"payload": {
+					"template": "combat_mk_ii",
+					"star": {
+						"name": "Soft Alaraph",
+						"uid": 520,
+						"ss": 1,
+						"es": 1,
+						"puid": 9,
+						"w": 17
+					},
+					"attackers": {
+						"151": {
+							"ss": 124,
+							"es": 0,
+							"puid": 63,
+							"w": 12
+						}
+					},
+					"defenders": {
+						"791": {
+							"ss": 11,
+							"es": 4,
+							"puid": 9,
+							"w": 17
+						},
+						"1207": {
+							"ss": 100,
+							"es": 35,
+							"puid": 9,
+							"w": 17
+						}
+					},
+					"dw": 18,
+					"aw": 12,
+					"loot": 0,
+					"looter": 9,
+					"tick": 449
+				}
+			},
+			{
+				"status": "read",
+				"key": "2086904",
+				"created": "2025-02-03T12:15:52.750Z",
+				"activity": "2025-02-03T12:15:52.750Z",
+				"group": "game_event",
+				"payload": {
+					"template": "money_sent",
+					"to_puid": 21,
+					"from_puid": 9,
+					"amount": 6000,
+					"tick": 447
+				}
+			},
+			{
+				"status": "read",
+				"key": "2086808",
+				"created": "2025-02-03T11:57:39.429Z",
+				"activity": "2025-02-03T11:57:39.429Z",
+				"group": "game_event",
+				"payload": {
+					"template": "money_sent",
+					"to_puid": 54,
+					"from_puid": 9,
+					"amount": 375,
+					"tick": 447
+				}
+			},
+			{
+				"status": "read",
+				"key": "2086701",
+				"created": "2025-02-03T11:35:55.838Z",
+				"activity": "2025-02-03T11:35:55.838Z",
+				"group": "game_event",
+				"payload": {
+					"template": "shared_technology",
+					"to_puid": 10,
+					"from_puid": 9,
+					"tech": 3,
+					"level": 10,
+					"price": 250,
+					"tick": 447
+				}
+			},
+			{
+				"status": "read",
+				"key": "2086700",
+				"created": "2025-02-03T11:35:46.842Z",
+				"activity": "2025-02-03T11:35:46.842Z",
+				"group": "game_event",
+				"payload": {
+					"template": "shared_technology",
+					"to_puid": 9,
+					"from_puid": 54,
+					"tech": 2,
+					"level": 15,
+					"price": 375,
+					"tick": 447
+				}
+			},
+			{
+				"status": "read",
+				"key": "2086633",
+				"created": "2025-02-03T11:22:21.649Z",
+				"activity": "2025-02-03T11:22:21.649Z",
+				"group": "game_event",
+				"payload": {
+					"template": "money_sent",
+					"to_puid": 9,
+					"from_puid": 10,
+					"amount": 2000,
+					"tick": 447
+				}
+			},
+			{
+				"status": "read",
+				"key": "2086595",
+				"created": "2025-02-03T11:19:42.923Z",
+				"activity": "2025-02-03T11:19:42.923Z",
+				"group": "game_event",
+				"payload": {
+					"template": "combat_mk_ii",
+					"star": {
+						"name": "Duhr",
+						"uid": 888,
+						"ss": 818,
+						"es": 0,
+						"puid": 19,
+						"w": 17
+					},
+					"attackers": {
+						"114": {
+							"ss": 1261,
+							"es": 271,
+							"puid": 29,
+							"w": 17
+						}
+					},
+					"defenders": {
+						"1208": {
+							"ss": 102,
+							"es": 0,
+							"puid": 9,
+							"w": 17
+						}
+					},
+					"dw": 18,
+					"aw": 17,
+					"loot": 90,
+					"looter": 29,
+					"tick": 447
+				}
+			},
+			{
+				"status": "read",
+				"key": "2086444",
+				"created": "2025-02-03T10:51:31.807Z",
+				"activity": "2025-02-03T10:51:31.807Z",
+				"group": "game_event",
+				"payload": {
+					"template": "shared_technology",
+					"to_puid": 28,
+					"from_puid": 9,
+					"tech": 3,
+					"level": 10,
+					"price": 250,
+					"tick": 446
+				}
+			},
+			{
+				"status": "read",
+				"key": "2086442",
+				"created": "2025-02-03T10:51:26.828Z",
+				"activity": "2025-02-03T10:51:26.828Z",
+				"group": "game_event",
+				"payload": {
+					"template": "shared_technology",
+					"to_puid": 28,
+					"from_puid": 9,
+					"tech": 3,
+					"level": 9,
+					"price": 225,
+					"tick": 446
+				}
+			},
+			{
+				"status": "read",
+				"key": "2086436",
+				"created": "2025-02-03T10:49:55.796Z",
+				"activity": "2025-02-03T10:49:55.796Z",
+				"group": "game_event",
+				"payload": {
+					"template": "shared_technology",
+					"to_puid": 21,
+					"from_puid": 9,
+					"tech": 3,
+					"level": 10,
+					"price": 250,
+					"tick": 446
+				}
+			},
+			{
+				"status": "read",
+				"key": "2086243",
+				"created": "2025-02-03T10:19:43.345Z",
+				"activity": "2025-02-03T10:19:43.345Z",
+				"group": "game_event",
+				"payload": {
+					"template": "combat_mk_ii",
+					"star": {
+						"name": "Sadalbari",
+						"uid": 518,
+						"ss": 658,
+						"es": 471,
+						"puid": 63,
+						"w": 12
+					},
+					"attackers": {
+						"561": {
+							"ss": 155,
+							"es": 0,
+							"puid": 9,
+							"w": 17
+						}
+					},
+					"defenders": {
+						"143": {
+							"ss": 1,
+							"es": 1,
+							"puid": 63,
+							"w": 12
+						}
+					},
+					"dw": 13,
+					"aw": 17,
+					"loot": 0,
+					"looter": 63,
+					"tick": 446
+				}
+			},
+			{
+				"status": "read",
+				"key": "2085997",
+				"created": "2025-02-03T09:21:04.558Z",
+				"activity": "2025-02-03T09:21:04.558Z",
+				"group": "game_event",
+				"payload": {
+					"template": "shared_technology",
+					"to_puid": 9,
+					"from_puid": 10,
+					"tech": 5,
+					"level": 17,
+					"price": 425,
+					"tick": 445
+				}
+			},
+			{
+				"status": "read",
+				"key": "2085991",
+				"created": "2025-02-03T09:20:42.180Z",
+				"activity": "2025-02-03T09:20:42.180Z",
+				"group": "game_event",
+				"payload": {
+					"template": "combat_mk_ii",
+					"star": {
+						"name": "Duhr",
+						"uid": 888,
+						"ss": 10,
+						"es": 6,
+						"puid": 19,
+						"w": 16
+					},
+					"attackers": {
+						"113": {
+							"ss": 671,
+							"es": 0,
+							"puid": 29,
+							"w": 17
+						}
+					},
+					"defenders": {
+						"160": {
+							"ss": 107,
+							"es": 63,
+							"puid": 19,
+							"w": 16
+						},
+						"279": {
+							"ss": 233,
+							"es": 135,
+							"puid": 19,
+							"w": 16
+						},
+						"308": {
+							"ss": 412,
+							"es": 239,
+							"puid": 19,
+							"w": 16
+						},
+						"355": {
+							"ss": 139,
+							"es": 81,
+							"puid": 19,
+							"w": 16
+						},
+						"446": {
+							"ss": 252,
+							"es": 146,
+							"puid": 19,
+							"w": 16
+						},
+						"548": {
+							"ss": 43,
+							"es": 25,
+							"puid": 19,
+							"w": 16
+						},
+						"702": {
+							"ss": 207,
+							"es": 120,
+							"puid": 19,
+							"w": 16
+						},
+						"1208": {
+							"ss": 177,
+							"es": 102,
+							"puid": 9,
+							"w": 16
+						}
+					},
+					"dw": 17,
+					"aw": 17,
+					"loot": 0,
+					"looter": 19,
+					"tick": 445
+				}
+			},
+			{
+				"status": "read",
+				"key": "2085987",
+				"created": "2025-02-03T09:20:42.180Z",
+				"activity": "2025-02-03T09:20:42.180Z",
+				"group": "game_event",
+				"payload": {
+					"template": "combat_mk_ii",
+					"star": {
+						"name": "Soft Alaraph",
+						"uid": 520,
+						"ss": 16,
+						"es": 4,
+						"puid": 9,
+						"w": 16
+					},
+					"attackers": {
+						"221": {
+							"ss": 76,
+							"es": 0,
+							"puid": 63,
+							"w": 12
+						}
+					},
+					"defenders": {
+						"791": {
+							"ss": 47,
+							"es": 11,
+							"puid": 9,
+							"w": 16
+						}
+					},
+					"dw": 17,
+					"aw": 12,
+					"loot": 0,
+					"looter": 9,
+					"tick": 445
+				}
+			}
+		],
+		"group": "game_event"
+	}
+]
